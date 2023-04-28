@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rEUwZ8U5vc15t+cezj357A0Ne58zfTpVr7NdxFvFISs=",
+  "Source": "AdventureWorksService",
+  "BasePath": "_content/AdventureWorksService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
